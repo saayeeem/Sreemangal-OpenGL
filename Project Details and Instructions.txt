@@ -1,0 +1,20 @@
+Computer Graphics Section:F
+================================
+Final Project: Sreemangal(Day/Night/Rain)view
+================================
+Created By:
+================================
+1) Mir Abrar Hossain,____________ID:18-38258-2
+2) Mohammad Sayem Chowdhury,____ ID:18-38198-2
+3) Kazi Shayem Mahamood,_________ID:18-37296-1
+4) HOSSAN,MD.SAZZAT,_____________ID:18-37445-1
+================================
+Press D for Day view/sound
+================================
+Press T for Day Train Start
+================================
+Press S for Day Train Stop
+================================
+Press R for Day Rainy view/sound
+================================
+Press N for Day Night view/sound
